@@ -4,7 +4,9 @@
   "description": "ejs render middleware for Koa.js",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts",
+    "tsconfig.json"
   ],
   "repository": {
     "type": "git",
